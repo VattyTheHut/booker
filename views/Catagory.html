@@ -1,0 +1,27 @@
+<div class="allscreen">
+  <div ng-repeat="author in authors">
+    <div ng-repeat="book in author">
+
+
+
+
+        <div class="card">
+          <div class="card-image waves-effect waves-block waves-light">
+            <img class="activator" ng-src={{book.image_url}}>
+          </div>
+          <div class="card-action">
+            <span class="card-title activator grey-text text-darken-4">{{book.title}}<i class="material-icons right">more_vert</i></span>
+            <p><a ui-sref="Readinglist">Add to readlist</a></p>
+          </div>
+          <div class="card-reveal">
+            <span class="card-title grey-text text-darken-4">{{book.author}}<i class="material-icons right">close</i></span>
+            <p>{{book.description}}</p>
+          </div>
+        </div>
+
+
+
+
+    </div>
+  </div>
+</div>

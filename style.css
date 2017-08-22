@@ -1,0 +1,231 @@
+body{
+  margin: 0px;
+}
+
+.main-header{
+  height: 450px;
+  background-image: url("img/firstbookshelf.jpg");
+  background-position: 40% center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+.book-girl-sit{
+  height: 420px;
+  background-image: url("/img/scienceGirl.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.morelife{
+      margin-left: -22%;
+}
+
+.ptext{
+  font-size: 200%;
+  font-family: 'Open Sans', sans-serif;
+  color: #c0b283;
+  background-color: #F4F4F4;
+
+}
+
+
+.pspace{
+  margin-top: 10%;
+  margin-left: 15%;
+  margin-right: 10%
+}
+
+
+.white-back{
+  padding: 10%;
+}
+
+
+.book-boy-sit{
+  height: 400px;
+  background-image: url("img/ben-white-126974.jpg");
+  background-position: 40% center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.round{
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  background-color: #FCFCFF;
+  color: grey;
+  border-color: #c0b283;
+}
+
+
+
+    /*margin-right: 207px; on all rows*/
+
+.goldi{
+  color: #c0b283;
+}
+
+.fin1{
+
+  color: white;
+  padding-bottom: 20%;
+  background-color: #373737;
+  /*padding: 100%*/
+}
+
+.fin2{
+
+  margin-top: 10%;
+  margin-left: 16%;
+  font-size: 115%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#history{
+  background-repeat: no-repeat;
+  background-image: url('img/histroyGlobeimg.jpg');
+  background-size: cover;
+  height: 262px;
+}
+
+#fiction{
+  background-repeat: no-repeat;
+  background-image: url('img/histroyGlobeimg.jpg');
+  background-size: cover;
+  height: 262px;
+}
+
+#psycology{
+  background-repeat: no-repeat;
+  background-image: url('img/psycologyLovers.jpg');
+  background-size: cover;
+  height: 262px;
+
+}
+
+#spirtuality{
+  background-repeat: no-repeat;
+  background-image: url('/img/buddahGoldstat.jpg');
+  background-size: cover;
+  height: 262px;
+}
+
+#philosophy{
+  background-repeat: no-repeat;
+  background-image: url('/Users/vatekehcorlon/myProject/booker/img/oldReader.jpg');
+  background-size: cover;
+  height: 262px;
+}
+
+#politics{
+  background-repeat: no-repeat;
+  background-image: url('img/histroyGlobeimg.jpg');
+  background-size: cover;
+  height: 262px;
+}
+
+#health{
+  background-repeat: no-repeat;
+  background-image: url('img/healthPillimg.jpg');
+  background-size: cover;
+  height: 262px;
+}
+
+#selfhelp{
+  background-repeat: no-repeat;
+  background-image: url('https://images-na.ssl-images-amazon.com/images/I/711KLBqCiJL.jpg');
+  background-size: cover;
+  height: 262px;
+}
+
+#economics{
+  background-repeat: no-repeat;
+  background-image: url('img/econPlanner.jpg');
+  background-size: cover;
+  height: 262px;
+}
+
+#science{
+  background-repeat: no-repeat;
+  background-image: url('img/Sciencechock.jpg');
+  background-size: cover;
+  height: 262px;
+}
+
+
+
+.joinCat{
+  margin-top: -20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.rs {
+  display: block;
+  max-width:100%;
+  max-height:100%;
+  width: auto;
+  height: auto;
+}
+
+
+.allscreen{
+  margin-right: 33%;
+  padding-left: 42%;
+}
+
+
+
+
+
+
+
+
+.addp{
+    margin-top: 68%;
+    margin-left: 4%;
+    position: fixed;
+}
+
+.nb{
+  margin-top: 50%;
+}
